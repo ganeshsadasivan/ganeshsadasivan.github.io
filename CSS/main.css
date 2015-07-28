@@ -17,3 +17,7 @@ body{
     width: 210px;
 
 }
+
+#photo img{
+    vertical-align: bottom;
+}
