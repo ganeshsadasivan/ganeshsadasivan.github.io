@@ -24,8 +24,10 @@ body{
 }
 
 #title{
-
+    font-family: “Segoe UI”,Arial,Helvetica,sans-serif;
+    font-weight: lighter;
     position:absolute;
     text-transform: uppercase;
-    top: 75px;
+    top: 70px;
+
 }
