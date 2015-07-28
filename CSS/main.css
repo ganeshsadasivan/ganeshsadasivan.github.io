@@ -39,10 +39,10 @@ h3#sub-title{
     font-family: "Roboto", "Segoe UI", Arial,Helvetica,sans-serif;
     font-weight: lighter;
     font-size: 1.5em;
-    position:absolute;
-    top: 120px;
+    position:relative;
+    top: -170px;
     width: 100%;
-    left: 300px;
+    margin-left: 25%;
 }
 
 #content{
