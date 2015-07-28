@@ -6,3 +6,10 @@ body{
 #header{
     color: red;
 }
+
+#photo{
+    background-image: url('../Images/bg-photo.png') ;
+    background-repeat: repeat-x;
+    width: 210px;
+    
+}
