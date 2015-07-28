@@ -27,7 +27,8 @@ body{
     font-family: “Segoe UI”,Arial,Helvetica,sans-serif;
     font-weight: lighter;
     position:absolute;
+    text-align: center;
     text-transform: uppercase;
-    top: 70px;
+    top: 65px;
 
 }
