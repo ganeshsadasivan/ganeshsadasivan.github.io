@@ -48,7 +48,9 @@ h1#title{
     background-image: url('../Images/bg-footer.png') ;
     background-repeat: repeat-x;
     font-size: 0.7em;
-    height: 270px;
+    font-family: 'Alegreya Sans', sans-serif;    
+    position: absolute;
+    bottom: 0;
 }
 
 #footer #copyright{
@@ -56,6 +58,7 @@ h1#title{
     background-repeat: repeat-x;
     color: white;
     margin-left: 10%;
+    padding: 1em;
     width: 210px;
     height: 360px;
 }
