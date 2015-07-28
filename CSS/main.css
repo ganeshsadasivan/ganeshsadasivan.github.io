@@ -1,6 +1,7 @@
 body{
     background-image: url('../Images/bg.png') ;
     background-repeat: repeat-x;
+    font-family: 'Alegreya Sans', sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -29,6 +30,6 @@ h1#title{
     position:absolute;
     text-align: center;
     text-transform: uppercase;
-    top: 65px;
+    top: 60px;
     width: 100%
 }
