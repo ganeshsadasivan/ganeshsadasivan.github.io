@@ -8,12 +8,13 @@ body{
     background-image: url('../Images/bg.png') ;
     background-repeat: repeat-x;
     color: #b4b4b4;
+    height: 300px;
 }
 
 #photo{
     background-image: url('../Images/bg-photo.png') ;
     background-repeat: repeat-x;
-    height: 426px;
+    height: 300px;
     margin-left: 10%;
     position: relative;
     width: 210px;
