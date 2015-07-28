@@ -1,3 +1,7 @@
 body{
     background-image: url('./Images/bg.png');
 }
+
+#header{
+    color: red;
+}
