@@ -15,9 +15,9 @@ body{
     height: 426px;
     margin-left: 10%;
     width: 210px;
-
+    vertical-align: bottom;
 }
 
 #photo img{
-    vertical-align: bottom;
+
 }
