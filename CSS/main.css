@@ -54,6 +54,8 @@ h1#title{
 #footer #copyright{
     background-image: url('../Images/bg-footer-left.png') ;
     background-repeat: repeat-x;
-    margin-left: 10%;    
+    color: white;
+    margin-left: 10%;
     width: 210px;
+    height: 360px;
 }
