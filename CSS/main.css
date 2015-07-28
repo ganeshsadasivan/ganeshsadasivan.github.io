@@ -1,11 +1,12 @@
 body{
-    background-image: url('../Images/bg.png') ;
-    background-repeat: repeat-x;
+
     margin: 0;
     padding: 0;
 }
 
 #header{
+    background-image: url('../Images/bg.png') ;
+    background-repeat: repeat-x;
     color: #b4b4b4;
 }
 
@@ -36,10 +37,10 @@ h1#title{
 #content{
     font-family: 'Alegreya Sans', sans-serif;
     font-size: 1.2em;
-    margin-left:20%;
-    margin-top: 10%;
-    margin-right: 20%;
-    margin-bottom: 10%;
+    margin-left:10%;
+    margin-top: 1%;
+    margin-right: 10%;
+    margin-bottom: 1%;
 }
 
 
