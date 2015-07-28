@@ -47,7 +47,7 @@ h1#title{
 #footer{
     background-image: url('../Images/bg-footer.png') ;
     background-repeat: repeat-x;
-    font-size: 0.7em;
+    font-size: 0.9em;
     font-family: 'Alegreya Sans', sans-serif;
     width: 100%;
 }
