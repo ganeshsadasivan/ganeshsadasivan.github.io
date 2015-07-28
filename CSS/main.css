@@ -13,6 +13,7 @@ body{
     background-image: url('../Images/bg-photo.png') ;
     background-repeat: repeat-x;
     height: 426px;
+    margin-left: 10%;
     width: 210px;
 
 }
