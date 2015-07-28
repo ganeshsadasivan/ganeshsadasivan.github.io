@@ -20,5 +20,11 @@ body{
 
 #photo img{
     bottom: 0;
-    position: absolute;    
+    position: absolute;
+}
+
+#title{
+    
+    text-transform: uppercase;
+
 }
