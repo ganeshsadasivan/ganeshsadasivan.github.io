@@ -1,6 +1,8 @@
 body{
     background-image: url('../Images/bg.png') ;
     background-repeat: repeat-x;
+    margin: 0;
+    padding: 0;
 }
 
 #header{
