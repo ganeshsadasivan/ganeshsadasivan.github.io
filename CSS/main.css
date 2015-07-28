@@ -6,7 +6,7 @@ body{
 }
 
 #header{
-    color: red;
+    color: #995a09;
 }
 
 #photo{
@@ -23,12 +23,12 @@ body{
     position: absolute;
 }
 
-#title{
+h1#title{
     font-family: “Segoe UI”,Arial,Helvetica,sans-serif;
     font-weight: lighter;
     position:absolute;
     text-align: center;
     text-transform: uppercase;
     top: 65px;
-
+    width: 100%
 }
