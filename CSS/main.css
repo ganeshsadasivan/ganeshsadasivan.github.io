@@ -24,8 +24,8 @@ body{
 }
 
 #title{
-    position:absolute;
-    top: 75px;
-    text-transform: uppercase;
 
+    position:absolute;
+    text-transform: uppercase;
+    top: 75px;
 }
