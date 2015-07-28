@@ -57,6 +57,9 @@ h1#title{
     background-repeat: repeat-x;
     color: white;
     margin-left: 10%;
-    padding: 0.5em;
-    width: 210px;    
+    width: 210px;
+}
+
+#footer #copyright p{
+    margin: 0.3em;
 }
