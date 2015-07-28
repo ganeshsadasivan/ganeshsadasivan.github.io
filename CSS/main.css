@@ -14,10 +14,11 @@ body{
     background-repeat: repeat-x;
     height: 426px;
     margin-left: 10%;
+    position: relative;
     width: 210px;
-    vertical-align: bottom;
 }
 
 #photo img{
-
+    bottom: 0;
+    position: absolute;    
 }
