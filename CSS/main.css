@@ -58,9 +58,7 @@ h1#title{
     color: white;
     margin-left: 10%;
     width: 210px;
-    height: 90px;
-    vertical-align: middle;
-    display: table-cell;
+    height: 90px;    
 }
 
 #footer #copyright p{
