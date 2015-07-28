@@ -50,3 +50,10 @@ h1#title{
     font-size: 0.7em;
     height: 270px;
 }
+
+#footer #copyright{
+    background-image: url('../Images/bg-footer-left.png') ;
+    background-repeat: repeat-x;
+    margin-left: 10%;    
+    width: 210px;
+}
