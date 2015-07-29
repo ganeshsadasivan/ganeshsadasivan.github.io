@@ -61,7 +61,8 @@ h1#title{
     background-image: url('../Images/bg-footer.png') ;
     background-repeat: repeat-x;
     font-size: 0.9em;
-    font-family: 'Alegreya Sans', sans-serif;
+    font-weight: 100;
+    font-family: "Segoe UI", Arial, Helvetica, sans-serif;
     width: 100%;
 }
 
