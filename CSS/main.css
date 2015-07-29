@@ -1,5 +1,4 @@
 body{
-
     margin: 0;
     padding: 0;
 }
@@ -55,7 +54,6 @@ h1#title{
     margin-right: 20%;
     margin-bottom: 5%;
 }
-
 
 #footer{
     background-image: url('../Images/bg-footer.png') ;
