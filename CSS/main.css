@@ -48,6 +48,7 @@ h1#title{
 
 #content{
     color: #333333;
+    opacity: 0.99;
     line-height: 2em;
     font-family: "Lucida Grande", "Segoe UI", Arial, Helvetica, sans-serif;
     -webkit-font-smoothing: antialiased;
