@@ -1,11 +1,9 @@
 body{
     margin: 0;
     padding: 0;
-    line-height: 1.5em;
     font-family: "Lucida Grande", "Segoe UI", Arial, Helvetica, sans-serif;
     -webkit-font-smoothing: antialiased;
-    font-size: 1.5em;
-    font-weight: 100;
+
 }
 
 #header{
@@ -52,7 +50,9 @@ h1#title{
 #content{
     color: #333333;
     opacity: 0.99;
-
+    font-size: 1.5em;
+    line-height: 1.5em;
+    font-weight: 100;
     margin-left:20%;
     margin-right: 20%;
     margin-bottom: 5%;
