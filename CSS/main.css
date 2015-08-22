@@ -34,39 +34,23 @@ footer{
 #navigation {
 
 }
-#navigation ul {
-  margin: 0;
-  padding: 0;
-}
-#navigation li {
 
-  display: block;
-  float: left;
-  margin: 0;
+#navigation ul {
+    margin: 0;
+    padding: 0;
 }
-#navigation li:last-child {
-  border-right-width: 0;
+
+#navigation li {
+    display: block;
+    float: left;
+    margin: 0;
 }
+
 #navigation a {
-  color: White;
-  display: block;
-  padding: .75em 1.5em;
-  text-decoration: underline;
-  transition: all .25s ease-in-out;
-  -moz-transition: all .25s ease-in-out;
-  -webkit-transition: all .25s ease-in-out;
+    color: White;
+    display: block;
 }
+
 #navigation a:hover {
-  
-}
-.clearfix {
-  *zoom: 1;
-}
-.clearfix:after,
-.clearfix:before {
-  content: '';
-  display: table;
-}
-.clearfix:after {
-  clear: both;
+
 }
