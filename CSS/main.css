@@ -30,9 +30,11 @@ footer{
     bottom: 9px;
     position: fixed;
 }
-
+nav{
+    float: right;
+}
 nav a{
     color: white;
     text-decoration: none;
-    float: right;   
+
 }
