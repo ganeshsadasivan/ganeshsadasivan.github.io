@@ -27,11 +27,13 @@ footer{
     color: white;
     font-weight: 300;
     font-size: 0.7em;
-    bottom: 9px;
+    bottom: 1em;;
     position: fixed;
 }
 nav{
     float: right;
+    position: fixed;
+    top: 1em;
 }
 nav a{
     color: white;
