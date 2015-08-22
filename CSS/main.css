@@ -1,35 +1,23 @@
 body {
-  /* Location of the image */
+
   background-image: url('../Images/3.jpg');
-
-  /* Image is centered vertically and horizontally at all times */
   background-position: center center;
-
-  /* Image doesn't repeat */
   background-repeat: no-repeat;
-
-  /* Makes the image fixed in the viewport so that it doesn't move when
-     the content height is greater than the image height */
   background-attachment: fixed;
-
-  /* This is what makes the background image rescale based on its container's size */
   background-size: cover;
+  background-color:#999;
 
-  /* Pick a solid background color that will be displayed while the background image is loading */
-  background-color:#464646;
-
+  font-family: 'Open Sans', sans-serif;
 }
 
 h1{
     color: white;
-    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-size: 3em;
 }
 
 h3{
     color: white;
-    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-size: 2em;
     width: 30%;
@@ -37,90 +25,8 @@ h3{
 
 footer{
     color: white;
-    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-size: 0.7em;
     bottom: 9px;
-    position: fixed;    
+    position: fixed;
 }
-
-/*body{
-    margin: 0;
-    padding: 0;
-    font-family: "Lucida Grande", "Segoe UI", Arial, Helvetica, sans-serif;
-    -webkit-font-smoothing: antialiased;
-
-}
-
-#header{
-    background-image: url('../Images/bg.png') ;
-    background-repeat: repeat-x;
-    color: #b4b4b4;
-}
-
-#photo{
-    background-image: url('../Images/bg-photo.png') ;
-    background-repeat: repeat-x;
-    height: 360px;
-    margin-left: 10%;
-    position: relative;
-    width: 210px;
-}
-
-#photo img{
-    bottom: 0;
-    position: absolute;
-}
-
-h1#title{
-
-    font-weight: 100;
-    font-size: 3em;
-    position:absolute;
-    text-align: center;
-    text-transform: uppercase;
-    top: 40px;
-    width: 100%;
-}
-
-#sub-header{
-
-    font-size: 3em;
-    font-weight: 100;
-    width: 70%;
-    text-align: center;
-    color: #777777;
-    margin-top: 1em;
-    margin-bottom: 1em;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-#content{
-    color: #333333;
-    opacity: 0.99;
-    font-size: 1.5em;
-    line-height: 1.5em;
-    font-weight: 100;
-    margin-left:20%;
-    margin-right: 20%;
-    margin-bottom: 5%;
-}
-
-#footer{
-    background-image: url('../Images/bg-footer.png') ;
-    background-repeat: repeat-x;
-    font-size: 0.9em;
-    font-weight: 100;
-    width: 100%;
-}
-
-#footer #copyright{
-    background-image: url('../Images/bg-footer-left.png') ;
-    background-repeat: repeat-x;
-    color: white;
-    margin-left: 10%;
-    width: 210px;
-    height: 90px;
-}
-*/
