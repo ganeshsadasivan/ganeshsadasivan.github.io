@@ -31,10 +31,7 @@ footer{
     position: fixed;
 }
 nav{
-    float: right;
-    position: fixed;
-    top: 2em;
-    right: 1em;
+
 }
 nav a{
     color: white;
