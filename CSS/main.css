@@ -35,6 +35,13 @@ h3{
     width: 30%;
 }
 
+footer{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 0.5em;
+}
+
 /*body{
     margin: 0;
     padding: 0;
