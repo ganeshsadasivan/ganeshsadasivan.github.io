@@ -41,8 +41,7 @@ footer{
     font-weight: 300;
     font-size: 0.7em;
     bottom: 9px;
-    position: fixed;
-    float: right;
+    position: fixed;    
 }
 
 /*body{
