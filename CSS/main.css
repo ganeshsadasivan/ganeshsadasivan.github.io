@@ -10,10 +10,11 @@ body#home {
   font-family: 'Open Sans', sans-serif;
 }
 
-h1{
+h1, h1 a{
     color: white;
     font-weight: 400;
     font-size: 3em;
+    text-decoration: none;
 }
 
 h3{
