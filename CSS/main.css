@@ -10,6 +10,11 @@ body#home {
   font-family: 'Open Sans', sans-serif;
 }
 
+#logo{
+    width: 50%;
+    height: 50%;
+}
+
 h1, h1 a{
     color: white;
     font-weight: lighter;
