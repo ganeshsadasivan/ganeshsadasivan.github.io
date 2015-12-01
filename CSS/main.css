@@ -13,14 +13,14 @@ body#home {
 h1, h1 a{
     color: white;
     font-weight: lighter;
-    font-size: 2em;
+    font-size: 1.5em;
     text-decoration: none;
 }
 
 h3{
     color: white;
     font-weight: 300;
-    font-size: 2em;
+    font-size: 1.2em;
     width: 50%;
 }
 
