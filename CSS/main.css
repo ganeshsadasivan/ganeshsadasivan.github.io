@@ -33,7 +33,7 @@ footer{
     position: fixed;
 }
 nav{
-
+    font-size: 1em;
 }
 nav a{
     color: white;
