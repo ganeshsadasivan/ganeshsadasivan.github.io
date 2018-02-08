@@ -19,28 +19,28 @@ h1, h1 a{
     margin-bottom: 0;
 }
 
-h3{
-    color: white;
-    font-weight: 300;
-    font-size: 1.5em;
-    width: 50%;
-    margin-top: 0px;
+h3 {
+	color: #333333;
+	font-weight: 300;
+	font-size: 1.5em;
+	width: 50%;
+	margin-top: 0px;
 }
 
-footer{
-    color: white;
-    font-weight: 300;
-    font-size: 0.7em;
-    bottom: 1em;
-    right: 1em;
-    position: fixed;
+footer {
+	color: #333333;
+	font-weight: 300;
+	font-size: 0.7em;
+	bottom: 1em;
+	right: 1em;
+	position: fixed;
 }
 nav{
     font-size: 1em;
-    color: white;
+    color: #333333;
 }
 nav a{
-    color: white;
+    color: #333333;
     text-decoration: none;
     display: inline-block;
     border-bottom: solid 2px #b42424;    
