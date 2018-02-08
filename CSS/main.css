@@ -32,3 +32,7 @@ nav {
 	color: #333333;
 	font-weight: lighter;
 }
+
+	nav a {
+		color: #b42424;		
+	}
