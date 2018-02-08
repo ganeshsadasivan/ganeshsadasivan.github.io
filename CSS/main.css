@@ -29,7 +29,8 @@ nav{
     color: #333333;
 }
 nav a{
-    color: #333333;
+	background-color: #b42424;
+    color: #fff;
     text-decoration: none;
     display: inline-block;
     border-bottom: solid 2px #b42424;    
