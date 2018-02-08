@@ -32,13 +32,3 @@ nav {
 	color: #333333;
 	font-weight: lighter;
 }
-
-	nav a {
-		background-color: #b42424;
-		border-radius: 5px;
-		color: #fff;
-		display: inline-block;
-		font-weight: lighter;
-		padding: 5px;
-		text-decoration: none;
-	}
