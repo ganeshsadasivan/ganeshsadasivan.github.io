@@ -22,7 +22,6 @@ h3 {
 	color: #333333;
 	font-weight: 300;
 	font-size: 1.5em;
-	width: 50%;
 	margin-top: 0px;
 }
 
@@ -30,9 +29,6 @@ footer {
 	color: #333333;
 	font-weight: 300;
 	font-size: 0.7em;
-	bottom: 1em;
-	right: 1em;
-	position: fixed;
 }
 nav{
     font-size: 1em;
