@@ -1,5 +1,6 @@
 body#home {
-  background-color:#999;
+  background-color:#333;
+  border-top: solid 3px #b42424;
   font-family: 'Open Sans', sans-serif;
   padding: 1em;
 }
