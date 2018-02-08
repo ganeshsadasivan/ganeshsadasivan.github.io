@@ -5,6 +5,11 @@ body#home {
   padding: 1em;
 }
 
+#logo {
+	height: 90px;
+	width: 90px;
+}
+
 h1, h1 a{
     color: #333333;
     font-weight: lighter;
