@@ -1,3 +1,12 @@
 body {
 	padding: 3rem;
 }
+
+footer {
+	color: #999;
+	font-size: 0.54rem;
+	position : absolute;
+    bottom : 0;
+    height : 40px;
+    margin-top : 40px;
+}
